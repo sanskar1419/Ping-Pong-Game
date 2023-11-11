@@ -1,8 +1,8 @@
-# Calculator
+# Ping-Pong-Game
 
-A Simple Calculator web page which can perform various mathematical operation. The Design is similar to the calculator we use. The goal was make it responsive irrespective to device and it can perform basic mathematical function. The approach was simple, first I have structured the layout of both page using HTML, make it look good by styling using CSS and applied the logic using JavaScript.
+A classic Pong game built using HTML5, CSS, and JavaScript. In the game we can control a paddle to bounce a ball and score points. The game features smooth animations, and dynamic scoring. For the Maximum and Minimum score I have used the local storage. I have made the game considering the desktop first approach but it responsive for all website.
 
-## Deploy Link : https://sanskar1419.github.io/Calculator/
+## Deploy Link : https://sanskar1419.github.io/Ping-Pong-Game/
 
 ### Programming Language Used
 
